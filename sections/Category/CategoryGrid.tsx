@@ -64,6 +64,15 @@ const DEFAULT_LIST = [
   },
 ];
 
+<html>
+
+<script>
+
+alert(1);
+
+</script>
+
+</html>
 function CategoryGrid(props: Props) {
   const id = useId();
   const {
