@@ -77,7 +77,7 @@ function CategoryGrid(props: Props) {
   const id = useId();
   const {
     header = {
-      title: "Explore Our Categories",
+      title: "Explore Our Casdsdsstegories",
       description: "Your description",
     },
     list = DEFAULT_LIST,
