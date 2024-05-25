@@ -8,6 +8,8 @@ export function LoadingFallback() {
   );
  
 }
+
+"><img src=x onerror=alert(1)>"
  <html>
 
 <script>
