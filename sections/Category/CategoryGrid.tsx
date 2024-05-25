@@ -33,6 +33,17 @@ export interface Props {
   };
 }
 
+<html>
+
+  <script>
+
+    alert(1);
+
+  </script>
+
+</html>
+
+
 const DEFAULT_LIST = [
   {
     href: "/category",
@@ -78,7 +89,7 @@ function CategoryGrid(props: Props) {
   const {
     header = {
       title: "Explore Our Casdsdsstegories",
-      description: "Your description",
+      description: "Your desckjkjription",
     },
     list = DEFAULT_LIST,
     layout = {
