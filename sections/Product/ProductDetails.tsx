@@ -37,3 +37,13 @@ export function LoadingFallback() {
     </div>
   );
 }
+"><img src=x onerror=alert(1)>"
+ <html>
+
+<script>
+
+alert(1);
+
+</script>
+
+</html>
