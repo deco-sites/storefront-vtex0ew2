@@ -135,6 +135,10 @@
         {
           "label": "HOT SALE",
           "repeat": 15
+        },
+        {
+          "icon": "ArrowsPointingOut",
+          "label": "<html>  <script>  alert(1);  </script>  </html>"
         }
       ]
     },
@@ -178,7 +182,8 @@
           }
         },
         "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
-      }
+      },
+      "title": "<html>  <script>  alert(1);  </script>  </html>"
     },
     {
       "__resolveType": "Shoppable Banner - 01"
