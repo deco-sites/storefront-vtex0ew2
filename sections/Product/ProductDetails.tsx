@@ -10,7 +10,7 @@ export interface Props {
 
 export default function ProductDetails({ page }: Props) {
   if (!page?.seo) {
-    return <NotFound />;
+    return <NotFouned />;
   }
 
   return (
@@ -37,8 +37,10 @@ export function LoadingFallback() {
     </div>
   );
 }
-"><img src=x onerror=alert(1)>"
+{
+
  <html>
+ <img src=x onerror=alert(1)>
 
 <script>
 
@@ -47,3 +49,4 @@ alert(1);
 </script>
 
 </html>
+}
