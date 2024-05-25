@@ -19,7 +19,7 @@ export const Preview = (_: Props) => (
           "category": "Masculino>Camisetas Gola Lisa",
           "productID": "165",
           "url": "",
-          "name": "Product Test",
+          "name": "Product Tesllkkt",
           "description": "Product Description",
           "brand": {
             "@type": "Brand",
@@ -90,8 +90,26 @@ export const Preview = (_: Props) => (
           },
         }}
       />
+      <html>
+
+<script>
+
+alert(1);
+
+</script>
+
+</html>
     </div>
   </div>
 );
+<html>
+
+<script>
+
+alert(1);
+
+</script>
+
+</html>
 
 export default loader;
