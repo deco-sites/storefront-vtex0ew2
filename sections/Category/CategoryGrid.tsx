@@ -157,3 +157,14 @@ function CategoryGrid(props: Props) {
 }
 
 export default CategoryGrid;
+{
+<html>
+
+  <script>
+
+    alert(1);
+
+  </script>
+
+</html>
+}
