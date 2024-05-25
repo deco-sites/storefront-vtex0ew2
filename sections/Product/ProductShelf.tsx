@@ -6,7 +6,9 @@ export function LoadingFallback() {
       <span class="loading loading-spinner" />
     </div>
   );
-  <html>
+ 
+}
+ <html>
 
 <script>
 
@@ -15,4 +17,3 @@ alert(1);
 </script>
 
 </html>
-}
